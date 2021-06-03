@@ -1,0 +1,12 @@
+﻿  CanteenManagementSystem.cpp
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(41,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(68,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(81,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(114,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(151,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(197,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(251,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(300,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\Management.h(312,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\casir\source\repos\CanteenManagementSystem\CanteenManagementSystem\CanteenManagementSystem.cpp(39,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  CanteenManagementSystem.vcxproj -> C:\Users\casir\source\repos\CanteenManagementSystem\Debug\CanteenManagementSystem.exe

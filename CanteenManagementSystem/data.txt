@@ -1,0 +1,18 @@
+sausage toast
+002
+15
+chicken salad
+003
+24
+fried potatoes
+004
+12
+sandwich
+2121
+25
+orange juice
+877
+7
+egg
+544
+20
