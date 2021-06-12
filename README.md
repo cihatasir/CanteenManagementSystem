@@ -1,6 +1,6 @@
 # Canteen Management System
 
-This program use txt file instead of database. You can do can perform the following operations with this program.
+This program use txt file instead of database. You can do perform the following operations with this program.
 
 ---
 
